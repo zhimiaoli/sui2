@@ -21,8 +21,8 @@
       "name": "TV",
       "items": [
         {"name":"Plex","url":"https://plex.miao.li","icon":"plex"},
-        {"name":"Radarr","url":"https://emby.miao.li","icon":"emby"},
-        {"name":"Sonarr","url":"https://jellyfin.miao.li","icon":"mdi:cast-education"},
+        {"name":"Emby","url":"https://emby.miao.li","icon":"emby"},
+        {"name":"Jellyfin","url":"https://jellyfin.miao.li","icon":"cast-education"},
         {"name":"Bazarr","url":"http://subs.example.com","icon":"message-video"},
         {"name":"Jackett","url":"http://jackett.example.com","icon":"tshirt-crew-outline"},
         {"name":"Lidarr","url":"http://music.example.com","icon":"music"},
